@@ -2,6 +2,8 @@ api_key.py
 .DS_Store
 *.txt
 *.csv
+*.pdf
+*.gpkg
 *.zip
 *.xls*
 *solution*
